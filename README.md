@@ -6,7 +6,7 @@ InfinitySumCalculator is a Qt C++ application that allows users to add very larg
 + **Arithmetic Operations:** Performs addition operations on the input strings, handling large numbers efficiently.
 + **User-Friendly Interface:** Provides a simple and intuitive user interface built with Qt, making it easy for users to input numbers and view results.
 
-##
+## Getting Started
 To run the InfinitySumCalculator application, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
@@ -17,3 +17,6 @@ To run the InfinitySumCalculator application, follow these steps:
 
 ## Dependencies
 + Qt Framework: The application is built using the Qt framework, which provides the graphical user interface and core functionality.
+
+## Screenshots
+[!Screenshot 1](https://github.com/miranmember/InfinitySumCalculator/blob/main/Calculator.png?raw=true)
