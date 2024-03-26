@@ -18,5 +18,5 @@ To run the InfinitySumCalculator application, follow these steps:
 ## Dependencies
 + Qt Framework: The application is built using the Qt framework, which provides the graphical user interface and core functionality.
 
-## Screenshots
-[!Screenshot 1](https://github.com/miranmember/InfinitySumCalculator/blob/main/Calculator.png?raw=true)
+## Screenshot
+![Screenshot 1](https://raw.githubusercontent.com/miranmember/InfinitySumCalculator/main/Calculator.png)
